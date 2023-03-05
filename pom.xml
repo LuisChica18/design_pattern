@@ -9,5 +9,6 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>FactoryMethod</module>
+    <module>AbstractFactory</module>
   </modules>
 </project>
