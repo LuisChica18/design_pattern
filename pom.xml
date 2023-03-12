@@ -11,5 +11,6 @@
     <module>FactoryMethod</module>
     <module>AbstractFactory</module>
     <module>Singleton</module>
+      <module>Adapter</module>
   </modules>
 </project>
