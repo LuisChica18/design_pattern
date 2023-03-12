@@ -12,6 +12,7 @@
     <module>AbstractFactory</module>
     <module>Singleton</module>
       <module>Adapter</module>
+    <module>Compisite</module>
   </modules>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
