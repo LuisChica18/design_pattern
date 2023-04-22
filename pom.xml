@@ -16,6 +16,7 @@
       <module>Proxy</module>
       <module>Facade</module>
       <module>Command</module>
+      <module>Observer</module>
   </modules>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
